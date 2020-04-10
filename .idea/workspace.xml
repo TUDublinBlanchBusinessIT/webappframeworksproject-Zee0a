@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="973654dc-7e98-4bb9-aab9-3fc9567b6bda" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ProfilesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ProfilesController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/profiles/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,8 +169,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/posts" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Zee\laravel\laravel\project\resources\views\posts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Zee\laravel\laravel\project\resources\views\profiles" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -202,7 +213,7 @@
       <workItem from="1586466201799" duration="940000" />
       <workItem from="1586467843096" duration="2916000" />
       <workItem from="1586522630506" duration="1091000" />
-      <workItem from="1586524280671" duration="14343000" />
+      <workItem from="1586524280671" duration="19155000" />
     </task>
     <task id="LOCAL-00001" summary="Added my logo, some divs and fixed up some padding on my nav bar">
       <created>1586525336352</created>
@@ -266,10 +277,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="379" y="207" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1586463339299" />
-    <state x="0" y="0" width="607" height="768" key="find.popup" timestamp="1586534332763">
+    <state x="0" y="0" width="607" height="768" key="find.popup" timestamp="1586541449655">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="0" y="0" width="607" height="768" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1586534332763" />
+    <state x="0" y="0" width="607" height="768" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1586541449655" />
     <state x="339" y="172" key="run.anything.popup" timestamp="1586524859921">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
