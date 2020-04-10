@@ -2,7 +2,9 @@
 
 @section('content')
 <div class="container">
-    <form action="">
+    <form action="/p" enctype="multipart/form-data" method="post">
+        @csrf
+
         <div class="row">
             <div class="col-8.offset-2">
 
@@ -13,14 +15,14 @@
                 <div class="form-group row">
                     <label for="caption" class="col-md-4 col-form-label">{{ __('Post Caption') }}</label>
 
-
                     <input id="caption"
-                           type="text" class="form-control @error('caption') is-invalid @enderror" caption="caption" value="{{ old('caption') }}"
+                           type="text" class="form-control @error('caption') is-invalid @enderror"  value="{{ old('caption') }}"
+                           name="caption"
                            autocomplete="caption" autofocus>
 
                     @error('caption')
                     <span class="invalid-feedback" role="alert">
-                            <strong>{{ $caption }}</strong>
+                            <strong>{{ $caption ?? '' }}</strong>
                         </span>
                     @enderror
 
@@ -33,7 +35,7 @@
 
                     @error('image')
                     <span class="invalid-feedback" role="alert">
-                            <strong>{{ $image }}</strong>
+                            <strong>{{ $image ?? '' }}</strong>
                         </span>
                     @enderror
 
