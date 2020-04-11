@@ -43,11 +43,14 @@ class ProfilesController extends Controller
             $image->save();
 
 
+            $imageArray = ['image' => $imagePath];
+
         }
+
 
         $user->profile->update(array_merge(
           $data,
-          ['image' => $imagePath]
+          $imageArray ?? []
 
         ));
 
