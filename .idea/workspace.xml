@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="973654dc-7e98-4bb9-aab9-3fc9567b6bda" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/posts/index.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/FollowsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/FollowsController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PostsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/PostsController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,7 +219,7 @@
       <workItem from="1586612064847" duration="26751000" />
       <workItem from="1586694052112" duration="2103000" />
       <workItem from="1586706715727" duration="3476000" />
-      <workItem from="1586720607810" duration="2276000" />
+      <workItem from="1586720607810" duration="3023000" />
     </task>
     <task id="LOCAL-00001" summary="Added my logo, some divs and fixed up some padding on my nav bar">
       <created>1586525336352</created>
@@ -299,10 +295,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="379" y="207" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1586463339299" />
-    <state x="0" y="0" width="607" height="768" key="find.popup" timestamp="1586637934130">
+    <state x="0" y="0" width="607" height="768" key="find.popup" timestamp="1586723465764">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="0" y="0" width="607" height="768" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1586637934130" />
+    <state x="0" y="0" width="607" height="768" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1586723465764" />
     <state x="339" y="172" key="run.anything.popup" timestamp="1586638786458">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
