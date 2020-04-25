@@ -1,6 +1,7 @@
 <template>
-
-        <button class="btn btn-primary ml-3" @click="followUser" v-text="buttonText"></button>
+        <div>
+            <button class="btn btn-primary ml-3" @click="followUser" v-text="buttonText"/>
+        </div>
 </template>
 
 <script>

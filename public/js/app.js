@@ -1913,6 +1913,7 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   props: ['userId', 'follows'],
   mounted: function mounted() {
@@ -37316,11 +37317,13 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("button", {
-    staticClass: "btn btn-primary ml-3",
-    domProps: { textContent: _vm._s(_vm.buttonText) },
-    on: { click: _vm.followUser }
-  })
+  return _c("div", [
+    _c("button", {
+      staticClass: "btn btn-primary ml-3",
+      domProps: { textContent: _vm._s(_vm.buttonText) },
+      on: { click: _vm.followUser }
+    })
+  ])
 }
 var staticRenderFns = []
 render._withStripped = true
