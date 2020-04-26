@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="973654dc-7e98-4bb9-aab9-3fc9567b6bda" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4fac5427-6061-404f-ad75-a368242a04b1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/4fac5427-6061-404f-ad75-a368242a04b1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/components/FollowButton.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/FollowButton.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/posts/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/posts/show.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +45,6 @@
         <item name="MySQL - myproject@localhost" type="feb32156:DbDataSourceImpl" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
         <item name="myproject: schema" type="76f4a085:MysqlImplModel$Schema" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="MySQL - myproject@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="myproject: schema" type="76f4a085:MysqlImplModel$Schema" />
-        <item name="failed_jobs: table" type="285a2a93:MysqlImplModel$Table" />
       </path>
     </expand>
     <select />
@@ -179,11 +172,11 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2019.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Zee\laravel\laravel\project\resources\views\profiles" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Zee\laravel\laravel\project\resources\views\posts" />
+      <recent name="C:\Users\Zee\laravel\laravel\project\resources\views\profiles" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Zee\laravel\laravel\project\resources\views\profiles" />
     </key>
   </component>
@@ -229,7 +222,9 @@
       <workItem from="1587470859372" duration="75000" />
       <workItem from="1587471176039" duration="1439000" />
       <workItem from="1587482745622" duration="157000" />
-      <workItem from="1587836485009" duration="724000" />
+      <workItem from="1587836485009" duration="1247000" />
+      <workItem from="1587839747201" duration="752000" />
+      <workItem from="1587909656542" duration="1415000" />
     </task>
     <task id="LOCAL-00001" summary="Added my logo, some divs and fixed up some padding on my nav bar">
       <created>1586525336352</created>
@@ -297,10 +292,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="184" y="26" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1587482827047" />
-    <state width="530" height="446" key="SwitcherDM" timestamp="1587839043681">
+    <state width="530" height="446" key="SwitcherDM" timestamp="1587910012581">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="530" height="446" key="SwitcherDM/0.0.1366.768@0.0.1366.768" timestamp="1587839043681" />
+    <state width="530" height="446" key="SwitcherDM/0.0.1366.768@0.0.1366.768" timestamp="1587910012581" />
     <state x="92" y="92" width="1182" height="584" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1586637709917">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
